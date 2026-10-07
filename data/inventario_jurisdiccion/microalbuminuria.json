@@ -1,0 +1,14 @@
+{
+  "distribuciones": [
+    {
+      "clave": "080.889.2632",
+      "unidad": "GTSSA016510",
+      "cantidad": 4650,
+      "lote": "2602098",
+      "caducidad": "2027-05-31",
+      "fecha_captura": "2026-04-17 15:00:00",
+      "usuario_captura": 0,
+      "observaciones": "EACF260000085"
+    }
+  ]
+}

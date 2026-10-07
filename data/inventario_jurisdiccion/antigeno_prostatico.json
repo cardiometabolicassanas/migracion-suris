@@ -1,0 +1,14 @@
+{
+  "inventario": [
+    {
+      "clave": "259000000022",
+      "unidad": "GTSSA016510",
+      "cantidad": 5025,
+      "lote": "250014",
+      "caducidad": "2027-03-01",
+      "fecha_captura": "2026-01-13 15:00:00",
+      "usuario_captura": 0,
+      "observaciones": "EACE260000002"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "distribuciones": [
+    {
+      "clave": "531.048.0297.PP",
+      "unidad": "GTSSA016510",
+      "cantidad": 6750,
+      "lote": "250906T",
+      "caducidad": "2027-08-04",
+      "fecha_captura": "2026-05-14 15:00:00",
+      "usuario_captura": 0,
+      "observaciones": "EACF260000136"
+    },
+    {
+      "clave": "531.048.0297.PP",
+      "unidad": "GTSSA016510",
+      "cantidad": 7775,
+      "lote": "250904T",
+      "caducidad": "2027-08-04",
+      "fecha_captura": "2026-05-14 15:00:00",
+      "usuario_captura": 0,
+      "observaciones": "EACF260000136"
+    },
+    {
+      "clave": "531.048.0297.PP",
+      "unidad": "GTSSA016510",
+      "cantidad": 35600,
+      "lote": "250520T",
+      "caducidad": "2027-04-30",
+      "fecha_captura": "2026-03-25 15:00:00",
+      "usuario_captura": 0,
+      "observaciones": "EACF260000074"
+    }
+  ]
+}
