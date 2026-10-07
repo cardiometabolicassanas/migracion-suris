@@ -1,0 +1,21 @@
+{
+  "distribuciones": [
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA005555",
+      "documento_declarante": "SC260001075",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "SHSC26010714",
+          "caducidad": "2027-07-09",
+          "cantidad": 4428
+        }
+      ]
+    }
+  ]
+}
