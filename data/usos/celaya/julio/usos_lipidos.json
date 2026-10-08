@@ -148,7 +148,7 @@
       "fecha_baja": "2026-08-05",
       "datetime_inicio": "2026-07-01 00:00:00",
       "datetime_termino": "2026-07-31 23:59:59",
-      "motivo_baja": "UTILIZADOS",
+      "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000870",
       "unidad_destino": "",
       "usuario_registro_baja": 0,
@@ -158,7 +158,7 @@
           "clave": "531.048.0297.PP",
           "lote": "250520T",
           "caducidad": "2027-04-30",
-          "cantidad": 4
+          "cantidad": 0
         }
       ]
     },
@@ -400,7 +400,7 @@
       "fecha_baja": "2026-08-05",
       "datetime_inicio": "2026-07-01 00:00:00",
       "datetime_termino": "2026-07-31 23:59:59",
-      "motivo_baja": "SIN USO",
+      "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA000870",
       "unidad_destino": "",
       "usuario_registro_baja": 0,
@@ -410,7 +410,7 @@
           "clave": "531.048.0297.PP",
           "lote": "250906T",
           "caducidad": "2027-08-04",
-          "cantidad": 0
+          "cantidad": 4
         }
       ]
     },

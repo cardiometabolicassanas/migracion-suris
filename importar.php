@@ -12,9 +12,9 @@ try {
     $database = new Database($config);
     $db = $database->getConnection();
 
-    $datos = JsonReader::read(__DIR__ . "/data/inventario_jurisdiccion/glucosa.json");
-    $importer = new InventarioJurisdiccionImporter($db);
-    $cantidades = $importer->importar($datos);
+    // $datos = JsonReader::read(__DIR__ . "/data/inventario_jurisdiccion/glucosa.json");
+    // $importer = new InventarioJurisdiccionImporter($db);
+    // $cantidades = $importer->importar($datos);
 
     // $datos = JsonReader::read(__DIR__ . "/data/distribuciones_jurisdiccion_municipios/celaya/distribucion_glucosa.json");
     // $importer = new DistribucionImporter($db);
@@ -24,9 +24,9 @@ try {
     // $importer = new DistribucionImporter($db);
     // $cantidades = $importer->importar($datos);
 
-    // $datos = JsonReader::read(__DIR__ . "/data/usos/celaya/agosto/usos_glucosa.json");
-    // $importer = new UsoImporter($db);
-    // $cantidades = $importer->importar($datos);
+    $datos = JsonReader::read(__DIR__ . "/data/usos/celaya/agosto/usos_glucosa.json");
+    $importer = new UsoImporter($db);
+    $cantidades = $importer->importar($datos);
 
     echo "Importación completada correctamente." . PHP_EOL;
     echo "Insertados: {$cantidades["insertados"]}"  . PHP_EOL;
