@@ -1,0 +1,38 @@
+{
+  "usos": [
+    {
+      "datetime_inicio": "2026-03-01 00:00:00",
+      "datetime_termino": "2026-03-31 23:59:59",
+      "motivo_baja": "",
+      "unidad_baja": "",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-04-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "datetime_inicio": "2026-03-01 00:00:00",
+      "datetime_termino": "2026-03-31 23:59:59",
+      "motivo_baja": "",
+      "unidad_baja": "",
+      "unidad_destino": "",
+      "usuario_registro_baja": 0,
+      "fecha_registro_baja": "2026-04-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "259000000022",
+          "lote": "250014",
+          "caducidad": "2027-03-01",
+          "cantidad": 0
+        }
+      ]
+    }
+  ]
+}

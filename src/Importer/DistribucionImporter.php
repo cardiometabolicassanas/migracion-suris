@@ -182,9 +182,9 @@ class DistribucionImporter
             throw new InvalidArgumentException("Distribución {$index}: origen y destino no pueden ser iguales.");
         }
 
-        if (empty($distribucion["documento_declarante"])) {
-            throw new InvalidArgumentException("Distribución {$index}: falta la nota de salida.");
-        }
+        // if (empty($distribucion["documento_declarante"])) {
+        //     throw new InvalidArgumentException("Distribución {$index}: falta la nota de salida.");
+        // }
 
         if (!is_array($distribucion["insumos"])) {
             throw new InvalidArgumentException("Distribución {$index}: 'insumos' debe ser un arreglo.");

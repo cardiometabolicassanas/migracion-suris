@@ -2,7 +2,7 @@
 
 return [
     "host" => "localhost",
-    "dbname" => "pruebas_migraciones",
+    "dbname" => "pruebas_migracion",
     "username" => "root",
     "password" => "",
     "charset" => "utf8mb4"

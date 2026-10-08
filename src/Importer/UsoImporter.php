@@ -144,6 +144,8 @@ class UsoImporter
             if ($cantidad !== 0) {
                 throw new InvalidArgumentException("Uso {$index}: SIN USO debe tener cantidad 0.");
             }
+
+            return;
         }
 
         if ($cantidad <= 0) {
@@ -365,7 +367,7 @@ class UsoImporter
 
     private function crearBaja(array $uso, string $folio): int
     {
-        $unidadDestino = !empty($uso["unidad_destino"]) ? $uso["unidad_destino"] : null;
+        $unidadDestino = !empty($uso["unidad_destino"]) ? $uso["unidad_destino"] : "";
 
         $sql = "
             INSERT INTO bajas (
