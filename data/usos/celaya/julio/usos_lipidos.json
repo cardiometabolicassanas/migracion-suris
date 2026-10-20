@@ -7,7 +7,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA000795",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -25,7 +25,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA000800",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -43,7 +43,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA000812",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -61,7 +61,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA000824",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -79,7 +79,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA000836",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -97,7 +97,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA000841",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -115,7 +115,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA000853",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -133,7 +133,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA000865",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -148,17 +148,17 @@
       "fecha_baja": "2026-08-05",
       "datetime_inicio": "2026-07-01 00:00:00",
       "datetime_termino": "2026-07-31 23:59:59",
-      "motivo_baja": "UTILIZADOS",
+      "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000870",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "531.048.0297.PP",
           "lote": "250520T",
           "caducidad": "2027-04-30",
-          "cantidad": 4
+          "cantidad": 0
         }
       ]
     },
@@ -169,7 +169,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA000882",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -187,7 +187,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA000894",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -205,7 +205,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA000906",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -223,7 +223,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA000911",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -241,7 +241,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA000923",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -259,7 +259,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA005555",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -277,7 +277,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA016772",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -295,7 +295,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA016830",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -313,7 +313,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA017320",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -331,7 +331,7 @@
       "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA005876",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -349,7 +349,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000800",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -367,7 +367,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000841",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -385,7 +385,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000865",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -400,17 +400,17 @@
       "fecha_baja": "2026-08-05",
       "datetime_inicio": "2026-07-01 00:00:00",
       "datetime_termino": "2026-07-31 23:59:59",
-      "motivo_baja": "SIN USO",
+      "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA000870",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
           "clave": "531.048.0297.PP",
           "lote": "250906T",
           "caducidad": "2027-08-04",
-          "cantidad": 0
+          "cantidad": 4
         }
       ]
     },
@@ -421,7 +421,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000795",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -439,7 +439,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000812",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -457,7 +457,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000824",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -475,7 +475,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000836",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -493,7 +493,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000853",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -511,7 +511,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000882",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -529,7 +529,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000894",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -547,7 +547,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000906",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -565,7 +565,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000911",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -583,7 +583,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000923",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -601,7 +601,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA005555",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -619,7 +619,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA016772",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -637,7 +637,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA016830",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -655,7 +655,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA017320",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
@@ -673,7 +673,7 @@
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA005876",
       "unidad_destino": "",
-      "usuario_registro_baja": 0,
+      "usuario_registro_baja": 51010,
       "fecha_registro_baja": "2026-08-05 12:00:00",
       "insumos": [
         {
