@@ -320,7 +320,7 @@
           "clave": "259000000022",
           "lote": "250014",
           "caducidad": "2027-03-01",
-          "cantidad": 52
+          "cantidad": 51
         }
       ]
     },
@@ -338,7 +338,7 @@
           "clave": "259000000022",
           "lote": "250014",
           "caducidad": "2027-03-01",
-          "cantidad": 22
+          "cantidad": 2
         }
       ]
     }

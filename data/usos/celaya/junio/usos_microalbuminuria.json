@@ -310,7 +310,7 @@
       "fecha_baja": "2026-07-05",
       "datetime_inicio": "2026-06-01 00:00:00",
       "datetime_termino": "2026-06-30 23:59:59",
-      "motivo_baja": "UTILIZADOS",
+      "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA017320",
       "unidad_destino": "",
       "usuario_registro_baja": 51010,
@@ -320,7 +320,7 @@
           "clave": "080.889.2632",
           "lote": "2602098",
           "caducidad": "2027-05-31",
-          "cantidad": 10
+          "cantidad": 0
         }
       ]
     },

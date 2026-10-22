@@ -12,7 +12,7 @@ try {
     $database = new Database($config);
     $db = $database->getConnection();
 
-    // $datos = JsonReader::read(__DIR__ . "/data/inventario_jurisdiccion/antigeno_prostatico.json");
+    // $datos = JsonReader::read(__DIR__ . "/data/inventario_jurisdiccion/microalbuminuria.json");
     // $importer = new InventarioJurisdiccionImporter($db);
     // $cantidades = $importer->importar($datos);
 
@@ -24,7 +24,7 @@ try {
     // $importer = new DistribucionImporter($db);
     // $cantidades = $importer->importar($datos);
 
-    $datos = JsonReader::read(__DIR__ . "/data/usos/celaya/agosto/usos_ap.json");
+    $datos = JsonReader::read(__DIR__ . "/data/usos/celaya/septiembre/usos_microalbuminuria.json");
     $importer = new UsoImporter($db);
     $cantidades = $importer->importar($datos);
 

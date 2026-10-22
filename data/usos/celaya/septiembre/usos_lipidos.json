@@ -472,6 +472,24 @@
       "fecha_baja": "2026-10-05",
       "datetime_inicio": "2026-09-01 00:00:00",
       "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "DESPERDICIO",
+      "unidad_baja": "GTSSA000795",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250904T",
+          "caducidad": "2027-08-04",
+          "cantidad": 3
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000812",
       "unidad_destino": "",
@@ -616,6 +634,24 @@
       "fecha_baja": "2026-10-05",
       "datetime_inicio": "2026-09-01 00:00:00",
       "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "DESPERDICIO",
+      "unidad_baja": "GTSSA000911",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250904T",
+          "caducidad": "2027-08-04",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
       "motivo_baja": "SIN USO",
       "unidad_baja": "GTSSA000923",
       "unidad_destino": "",
@@ -699,6 +735,24 @@
           "lote": "250904T",
           "caducidad": "2027-08-04",
           "cantidad": 161
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "DESPERDICIO",
+      "unidad_baja": "GTSSA017320",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250904T",
+          "caducidad": "2027-08-04",
+          "cantidad": 2
         }
       ]
     },

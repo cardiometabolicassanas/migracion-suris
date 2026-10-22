@@ -310,7 +310,7 @@
       "fecha_baja": "2026-10-05",
       "datetime_inicio": "2026-09-01 00:00:00",
       "datetime_termino": "2026-09-30 23:59:59",
-      "motivo_baja": "SIN USO",
+      "motivo_baja": "UTILIZADOS",
       "unidad_baja": "GTSSA017320",
       "unidad_destino": "",
       "usuario_registro_baja": 51010,
