@@ -12,19 +12,19 @@ try {
     $database = new Database($config);
     $db = $database->getConnection();
 
-    // $datos = JsonReader::read(__DIR__ . "/data/inventario_jurisdiccion/glucosa.json");
+    // $datos = JsonReader::read(__DIR__ . "/data/inventario_jurisdiccion/antigeno_prostatico.json");
     // $importer = new InventarioJurisdiccionImporter($db);
     // $cantidades = $importer->importar($datos);
 
-    // $datos = JsonReader::read(__DIR__ . "/data/distribuciones_jurisdiccion_municipios/celaya/distribucion_glucosa.json");
+    // $datos = JsonReader::read(__DIR__ . "/data/distribuciones_jurisdiccion_municipios/celaya/distribucion_microalbuminuria.json");
     // $importer = new DistribucionImporter($db);
     // $cantidades = $importer->importar($datos);
 
-    // $datos = JsonReader::read(__DIR__ . "/data/distribuciones_municipios_unidades/celaya/distribucion_glucosa.json");
+    // $datos = JsonReader::read(__DIR__ . "/data/distribuciones_municipios_unidades/celaya/distribucion_microalbuminuria.json");
     // $importer = new DistribucionImporter($db);
     // $cantidades = $importer->importar($datos);
 
-    $datos = JsonReader::read(__DIR__ . "/data/usos/celaya/agosto/usos_glucosa.json");
+    $datos = JsonReader::read(__DIR__ . "/data/usos/celaya/agosto/usos_ap.json");
     $importer = new UsoImporter($db);
     $cantidades = $importer->importar($datos);
 
