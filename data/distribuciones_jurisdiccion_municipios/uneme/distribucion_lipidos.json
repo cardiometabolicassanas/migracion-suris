@@ -1,0 +1,21 @@
+{
+  "distribuciones": [
+    {
+      "fecha_baja": "2026-03-30",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA016510",
+      "unidad_destino": "GTSSA017093",
+      "documento_declarante": "SC260001318",
+      "usuario_registro_baja": 175467,
+      "fecha_registro_baja": "2026-03-30 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 400
+        }
+      ]
+    }
+  ]
+}

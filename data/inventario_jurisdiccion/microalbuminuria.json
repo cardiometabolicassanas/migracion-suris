@@ -9,6 +9,16 @@
       "fecha_captura": "2026-04-17 15:00:00",
       "usuario_captura": 175467,
       "observaciones": "EACF260000085"
+    },
+    {
+      "clave": "080.889.2632",
+      "unidad": "GTSSA016510",
+      "cantidad": 1825,
+      "lote": "URS6070050",
+      "caducidad": "2028-05-29",
+      "fecha_captura": "2026-10-01 15:00:00",
+      "usuario_captura": 175467,
+      "observaciones": "EACE260000045"
     }
   ]
 }
