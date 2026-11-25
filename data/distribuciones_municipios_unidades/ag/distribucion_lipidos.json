@@ -1,0 +1,446 @@
+{
+  "distribuciones": [
+    {
+      "fecha_baja": "2026-03-30",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000590",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-03-30 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 325
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-03-30",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000602",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-03-30 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 200
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-03-30",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000614",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-03-30 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 100
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-03-30",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000626",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-03-30 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 425
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-03-30",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000631",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-03-30 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 200
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-03-30",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA016755",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-03-30 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 125
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-03-30",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000643",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-03-30 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 200
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-03-30",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA016760",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-03-30 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 125
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-03-30",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000655",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-03-30 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 175
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-03-30",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000660",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-03-30 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 400
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-03-30",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000672",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-03-30 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 350
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-03-30",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000684",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-03-30 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 200
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-03-30",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000696",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-03-30 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 175
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-05-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000590",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-05-19 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-08-04",
+          "cantidad": 100
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-05-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000602",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-05-19 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-08-04",
+          "cantidad": 100
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-05-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000614",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-05-19 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-08-04",
+          "cantidad": 100
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-05-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000626",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-05-19 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-08-04",
+          "cantidad": 100
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-05-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000631",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-05-19 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-08-04",
+          "cantidad": 100
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-05-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA016755",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-05-19 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-08-04",
+          "cantidad": 100
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-05-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000643",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-05-19 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-08-04",
+          "cantidad": 100
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-05-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA016760",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-05-19 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-08-04",
+          "cantidad": 100
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-05-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000655",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-05-19 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-08-04",
+          "cantidad": 100
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-05-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000660",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-05-19 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-08-04",
+          "cantidad": 100
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-05-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000672",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-05-19 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-08-04",
+          "cantidad": 100
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-05-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000684",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-05-19 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-08-04",
+          "cantidad": 100
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-05-19",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "GTSSA000696",
+      "documento_declarante": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-05-19 15:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-08-04",
+          "cantidad": 100
+        }
+      ]
+    }
+  ]
+}

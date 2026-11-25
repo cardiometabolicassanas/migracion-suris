@@ -1,0 +1,562 @@
+{
+  "usos": [
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 273
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "DESPERDICIO",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 7
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000590",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 22
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000602",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 32
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000614",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000626",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 16
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000631",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA016755",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 17
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000643",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA016760",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000655",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 27
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "DESPERDICIO",
+      "unidad_baja": "GTSSA000655",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000660",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 51
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000672",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 39
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000684",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 36
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "DESPERDICIO",
+      "unidad_baja": "GTSSA000684",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000696",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA005736",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-04-30",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000590",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-04-30",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000602",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-04-30",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000614",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-04-30",
+          "cantidad": 20
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000626",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-04-30",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000631",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-04-30",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA016755",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-04-30",
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000643",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-04-30",
+          "cantidad": 49
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA016760",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-04-30",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000655",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-04-30",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000660",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-04-30",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000672",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-04-30",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA000684",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-04-30",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-10-05",
+      "datetime_inicio": "2026-09-01 00:00:00",
+      "datetime_termino": "2026-09-30 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA000696",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-10-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250906T",
+          "caducidad": "2027-04-30",
+          "cantidad": 6
+        }
+      ]
+    }
+  ]
+}
