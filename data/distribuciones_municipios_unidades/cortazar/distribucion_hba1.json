@@ -1,0 +1,140 @@
+{
+  "distribuciones": [
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA017006",
+      "unidad_destino": "GTSSA001133",
+      "documento_declarante": "",
+      "usuario_registro_baja": 193652,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "SHSC260107141",
+          "caducidad": "2027-07-09",
+          "cantidad": 120
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA017006",
+      "unidad_destino": "GTSSA005782",
+      "documento_declarante": "",
+      "usuario_registro_baja": 193652,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "SHSC260107141",
+          "caducidad": "2027-07-09",
+          "cantidad": 72
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA017006",
+      "unidad_destino": "GTSSA001150",
+      "documento_declarante": "",
+      "usuario_registro_baja": 193652,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "SHSC260107141",
+          "caducidad": "2027-07-09",
+          "cantidad": 36
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA017006",
+      "unidad_destino": "GTSSA001162",
+      "documento_declarante": "",
+      "usuario_registro_baja": 193652,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "SHSC260107141",
+          "caducidad": "2027-07-09",
+          "cantidad": 72
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA017006",
+      "unidad_destino": "GTSSA001174",
+      "documento_declarante": "",
+      "usuario_registro_baja": 193652,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "SHSC260107141",
+          "caducidad": "2027-07-09",
+          "cantidad": 72
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA017006",
+      "unidad_destino": "GTSSA001186",
+      "documento_declarante": "",
+      "usuario_registro_baja": 193652,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "SHSC260107141",
+          "caducidad": "2027-07-09",
+          "cantidad": 60
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA017006",
+      "unidad_destino": "GTSSA001191",
+      "documento_declarante": "",
+      "usuario_registro_baja": 193652,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "SHSC260107141",
+          "caducidad": "2027-07-09",
+          "cantidad": 72
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA017006",
+      "unidad_destino": "GTSSA001203",
+      "documento_declarante": "",
+      "usuario_registro_baja": 193652,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "SHSC260107141",
+          "caducidad": "2027-07-09",
+          "cantidad": 60
+        }
+      ]
+    }
+  ]
+}

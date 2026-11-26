@@ -1,0 +1,123 @@
+{
+  "distribuciones": [
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA017006",
+      "unidad_destino": "GTSSA001133",
+      "documento_declarante": "",
+      "usuario_registro_baja": 193652,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2632",
+          "lote": "2602098",
+          "caducidad": "2027-05-31",
+          "cantidad": 50
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA017006",
+      "unidad_destino": "GTSSA001191",
+      "documento_declarante": "",
+      "usuario_registro_baja": 193652,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2632",
+          "lote": "2602098",
+          "caducidad": "2027-05-31",
+          "cantidad": 50
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA017006",
+      "unidad_destino": "GTSSA005782",
+      "documento_declarante": "",
+      "usuario_registro_baja": 193652,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2632",
+          "lote": "URS6070050",
+          "caducidad": "2028-05-29",
+          "cantidad": 25
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA017006",
+      "unidad_destino": "GTSSA001162",
+      "documento_declarante": "",
+      "usuario_registro_baja": 193652,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2632",
+          "lote": "URS6070050",
+          "caducidad": "2028-05-29",
+          "cantidad": 25
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA017006",
+      "unidad_destino": "GTSSA001174",
+      "documento_declarante": "",
+      "usuario_registro_baja": 193652,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2632",
+          "lote": "URS6070050",
+          "caducidad": "2028-05-29",
+          "cantidad": 25
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA017006",
+      "unidad_destino": "GTSSA001186",
+      "documento_declarante": "",
+      "usuario_registro_baja": 193652,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2632",
+          "lote": "URS6070050",
+          "caducidad": "2028-05-29",
+          "cantidad": 25
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA017006",
+      "unidad_destino": "GTSSA001191",
+      "documento_declarante": "",
+      "usuario_registro_baja": 193652,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2632",
+          "lote": "URS6070050",
+          "caducidad": "2028-05-29",
+          "cantidad": 25
+        }
+      ]
+    }
+  ]
+}
