@@ -67,6 +67,23 @@
           "cantidad": 50
         }
       ]
+    },
+    {
+      "fecha_baja": "2026-04-28",
+      "motivo_baja": "DISTRIBUCIÓN",
+      "unidad_baja": "GTSSA000515",
+      "unidad_destino": "GTSSA000561",
+      "documento_declarante": "",
+      "usuario_registro_baja": 149704,
+      "fecha_registro_baja": "2026-04-28 15:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2632",
+          "lote": "URS6070050",
+          "caducidad": "2028-05-29",
+          "cantidad": 25
+        }
+      ]
     }
   ]
 }
