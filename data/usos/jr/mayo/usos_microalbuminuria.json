@@ -1,0 +1,58 @@
+{
+  "usos": [
+    {
+      "fecha_baja": "2026-06-05",
+      "datetime_inicio": "2026-05-01 00:00:00",
+      "datetime_termino": "2026-05-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA017562",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-06-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2632",
+          "lote": "2602098",
+          "caducidad": "2027-05-31",
+          "cantidad": 111
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-05",
+      "datetime_inicio": "2026-05-01 00:00:00",
+      "datetime_termino": "2026-05-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA004271",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-06-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2632",
+          "lote": "2602098",
+          "caducidad": "2027-05-31",
+          "cantidad": 0
+        }
+      ]
+    },
+    {
+      "fecha_baja": "2026-06-05",
+      "datetime_inicio": "2026-05-01 00:00:00",
+      "datetime_termino": "2026-05-31 23:59:59",
+      "motivo_baja": "SIN USO",
+      "unidad_baja": "GTSSA005596",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-06-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "080.889.2632",
+          "lote": "2602098",
+          "caducidad": "2027-05-31",
+          "cantidad": 0
+        }
+      ]
+    }
+  ]
+}
