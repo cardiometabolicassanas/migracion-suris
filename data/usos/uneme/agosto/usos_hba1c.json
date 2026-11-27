@@ -1,0 +1,22 @@
+{
+  "usos": [
+    {
+      "fecha_baja": "2026-09-05",
+      "datetime_inicio": "2026-08-01 00:00:00",
+      "datetime_termino": "2026-08-31 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA017093",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-09-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "533.342.1518.00",
+          "lote": "SHSC260107141",
+          "caducidad": "2027-07-09",
+          "cantidad": 73
+        }
+      ]
+    }
+  ]
+}

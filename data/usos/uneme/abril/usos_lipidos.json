@@ -1,0 +1,22 @@
+{
+  "usos": [
+    {
+      "fecha_baja": "2026-05-05",
+      "datetime_inicio": "2026-04-01 00:00:00",
+      "datetime_termino": "2026-04-30 23:59:59",
+      "motivo_baja": "UTILIZADOS",
+      "unidad_baja": "GTSSA017093",
+      "unidad_destino": "",
+      "usuario_registro_baja": 51010,
+      "fecha_registro_baja": "2026-05-05 12:00:00",
+      "insumos": [
+        {
+          "clave": "531.048.0297.PP",
+          "lote": "250520T",
+          "caducidad": "2027-04-30",
+          "cantidad": 68
+        }
+      ]
+    }
+  ]
+}
